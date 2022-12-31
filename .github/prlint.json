@@ -2,12 +2,7 @@
 	"title": [
 		{
 			"pattern": "^([A-Z]+-[0-9]+:\s.*$)",
-			"flags": ["i"],
 			"message": "Your title must start with a capital letter, and a real word, e.g. 'Add GO support'"
-		},
-		{
-			"pattern": "^\\S+\\s+\\S+\\s+\\S+",
-			"message": "Your title must have at least three words"
 		}
 	]
 }
