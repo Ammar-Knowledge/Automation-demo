@@ -18,4 +18,4 @@
 ### Include any additional notes, relevant links, or co-authors
  -
  -
-#### If checks are failing then open this link to follow standards [Standards](https://devsinc.atlassian.net/wiki/spaces/PMP/pages/631767041/Naming+Convention+-+PR+Branching+Standards)
+#### If checks are failing then open this link to follow [Standards](https://devsinc.atlassian.net/wiki/spaces/PMP/pages/631767041/Naming+Convention+-+PR+Branching+Standards)
