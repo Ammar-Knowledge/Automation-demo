@@ -1,7 +1,7 @@
 {
 	"title": [
 		{
-			"pattern": "/((?:[a-z][a-z]+))(\d{3})(:)([a-z0-9])/i",
+			"pattern": "^([A-Z]+-[0-9]+:\s.*$)",
 			"flags": ["i"],
 			"message": "Your title must start with a capital letter, and a real word, e.g. 'Add GO support'"
 		},
