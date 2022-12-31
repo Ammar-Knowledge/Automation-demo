@@ -2,7 +2,7 @@
 	"title": [
 		{
 			"pattern": "^[A-Z]+-[0-9]+:",
-			"message": "Your title must start with a capital letter, and a real word, e.g. 'Add GO support'"
+			"message": "Your PR Title is not Starting with jira ticket Id e.g. JIRA:00:asdfgh. asdfg represents the summary"
 		}
 	]
 }
