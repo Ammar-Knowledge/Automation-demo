@@ -6,3 +6,4 @@ chal ja
 
 nai plz ek vari fair
 kuj buk 💀😭😭
+pls
