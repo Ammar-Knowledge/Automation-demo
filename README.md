@@ -5,5 +5,5 @@ chal ja
 
 
 nai plz ek vari fair
-kuj buk 💀😭😭
+kuj buk 💀😭😭😭😭😭😭😭😭😂
 pls
