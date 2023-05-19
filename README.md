@@ -3,4 +3,4 @@
 ek vadi
 plass
 
-I miss hypr
+NO
