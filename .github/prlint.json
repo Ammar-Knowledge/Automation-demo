@@ -1,0 +1,8 @@
+{
+	"title": [
+		{
+			"pattern": "^[A-Z]+-[0-9]+:",
+			"message": "Your PR Title is not Starting with jira ticket Id e.g. JIRA:00:asdfgh. asdfg represents the summary"
+		}
+	]
+}
